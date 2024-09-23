@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Selvalakshmi
+- 👀 I’m interested in Data Analytics and Data Science
+- 🌱 I’m currently learning Data Analytics and Data Science in KGIMC from Coimbatore
+- 💞️ I’m looking to collaborate on  data analysis, machine learning, and data visualization
+- 📫 Reach me in Gitup and Linkedin(selvalakshmi9301@gmail.com)
